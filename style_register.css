@@ -1,0 +1,159 @@
+      #login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:#000000;
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+    background-color:#ffffff;
+    border-top:1px solid #ddd;
+    clear:both;
+    padding:14px;
+}
+#login-dp .social-buttons{
+    margin:12px 0    
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color:rgba(255,255,255,.8)
+  }
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:rgba(255,255,255,.8)!important;
+  }
+#sophiesheight{
+  height: 50px;
+}
+
+#logo {
+  margin-top: -10px;
+  margin-left: 50px;
+}
+.modal-header, h4, .close {
+      background-color: #333;
+      color: #ffffff !important;
+      text-align: center;
+      font-size: 30px;
+  }
+.modal-header, .modal-body {
+      padding: 40px 50px;
+  }
+.nav-tabs li a {
+      color: #777;
+  }
+  
+.navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      background-color: #000000 !important;
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 4px;
+      opacity: 1;
+      color: #ffffff;
+  }
+.navbar-nav li { 
+      color: #ffffff !important;
+  }
+.navbar-nav li a:hover {
+      color: #fffffff !important;
+  }
+.navbar-nav li.active a {
+      color: #ffffff !important;
+      background-color: #000000 !important;
+  }
+.navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+.open .dropdown-toggle {
+      color: #fff;
+      background-color: #000000 !important;
+  }
+.dropdown-menu li a {
+      color: #000000 !important;
+      background-color: #ffffff !important;
+  }
+.dropdown-menu li a:hover {
+      background-color:  #ffffff !important;
+      }
+        .carousel-inner img {
+ width: 100%; 
+}
+
+
+.carousel-inner img {
+  width: 100%; 
+}
+
+.item {
+  height: 590px
+}
+
+#waarborg {
+  height:100px;
+  width: 100px;
+} 
+
+#mogelijkheden {
+  height:90px;
+  width: 250px;
+}
+
+#social {
+  height:100px;
+  width: 150px;
+}
+
+#preview:hover {
+  opacity: 0.5;
+}
+
+#signup {
+  margin-top: -60px;
+  height: 140px;
+}
+
+#account {
+  margin-top: 70px;
+  height: 140px;
+}
+
+#case {
+  height: 320px;
+  widows: 210px;
+}
+
+body {
+  background-color: #F5F5F5;
+}
+
+.footercontent {
+  height: 130px;
+}
+#newhere {
+  color: #000000;
+}
+#password {
+  color: #ffffff
+}
+
+#submit a{
+  text-decoration: none;
+}
